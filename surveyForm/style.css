@@ -4,18 +4,20 @@ form {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
     height: 50%;
-    width: 50%;
+    width: 70%;
   }
   .radio-group {
     display: flex;
     flex-direction: column;
-    margin-bottom: 16px;
-  }
+    margin-bottom: 16px;}
 
-  label {
-    display: block;
-    margin-bottom: 8px;
-  }
+h1{
+    position:relative ;
+    left:20%;
+    bottom: 5%;
+    font-weight: bold;
+}
+  
   
   .title,.satisfaction-label , .like-label{
     font-weight: bolder;
